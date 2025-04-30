@@ -32,3 +32,9 @@ Olá, meu nome é Leandro Arantes, tenho 20 anos e sou Desenvolvedor Web full-st
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroArantesDev&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroArantesDev&layout=donut&theme=dracula)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroArantesDev/LeandroArantesDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroArantesDev/LeandroArantesDev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeandroArantesDev/LeandroArantesDev/output/github-contribution-grid-snake.svg">
+</picture>
