@@ -29,14 +29,17 @@ Olá, meu nome é Leandro Arantes, tenho 20 anos e sou Desenvolvedor Web full-st
 </div>
 
 ## 📊 Estatísticas:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<a href="https://github.com/anuraghazra/github-readme-stats" width=60%>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroArantesDev&theme=dracula"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" width=40%>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroArantesDev&theme=dracula&hide_progress=true"/>
 </a>
+</div>
 
 ## ✅ Commits
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroArantesDev/LeandroArantesDev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroArantesDev/LeandroArantesDev/output/github-contribution-grid-snake-dark.svg">
