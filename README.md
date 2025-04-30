@@ -9,7 +9,7 @@ Olá, meu nome é Leandro Arantes, tenho 20 anos e sou Desenvolvedor Web full-st
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/ruan.parreira](https://www.instagram.com/l3andro.arantes/)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-arantes-8a08b1293/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandroarantesoficial@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandrohenriquearantesoficial@gmail.com)
 
 ## Experiêcias 🔍
 
@@ -29,14 +29,8 @@ Olá, meu nome é Leandro Arantes, tenho 20 anos e sou Desenvolvedor Web full-st
 </div>
 
 ## 📊 Estatísticas:
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-<a href="https://github.com/anuraghazra/github-readme-stats" width=60%>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroArantesDev&theme=dracula"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat" width=40%>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroArantesDev&theme=dracula&hide_progress=true"/>
-</a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroArantesDev&theme=dracula"/></a>
+<a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroArantesDev&theme=dracula&hide_progress=true"/></a>
 
 ## ✅ Commits
 
